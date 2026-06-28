@@ -11,6 +11,8 @@
 **Repositori:** 'https://github.com/azhraaaaaaa/kelompok1'
 
 **Link Web:** 'https://kelompok1-production.up.railway.app'
+
+**Akun Web:** "email: admin@example.com pass: admin123"
 ---
 
 ## Anggota & Role
